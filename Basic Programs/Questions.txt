@@ -1,0 +1,30 @@
+ 				BASIC PYTHON PROGRAMS
+
+1.  Program to print two different strings “Hello” and “World” in different lines.
+2.  Program to print two different strings “Hello” and “World” in a single line.
+3.  Program to add two entered integer values.
+4.  Program to subtract two entered integer values.
+5.  Program to multiply two entered integer values.
+6.  Program to input two integer values and calculate first number raised to the power second
+    number.
+7.  Program to find the area and perimeter of a rectangle, when the required input (Length and
+    Breadth) are entered by the user.
+8.  Program to find the area and circumference of a circle, when the radius is entered by the user.
+    However, the user can input radius in integer or float.
+9.  Program to find the hypotenuse of a right angled triangle, when the base and height are entered
+    by the user.
+10. Program to input two numbers and print the swapped values of them.
+11. Program to find the number of currency notes of each type (Rs. 2000, Rs. 500 and Rs. 100),
+    when the total number of currency notes counted altogether is minimum and there must be at
+    least a 100 rupee note dispensed. The amount to be withdrawn is to be entered by the user.
+12. Program to find whether a triangle is scalene, isosceles, right angled or invalid when the sides of
+    the triangle are entered by the user.
+13. Program to find the Simple Interest and the total amount when the Principal, Rate of Interest
+    and Time are entered by the user.
+14. Program to find the Compound Interest compounded annually and the total amount when the
+    Principal, Rate of Interest and Time are entered by the user.
+15. Program that calculates the number of rectangular tiles required to cover a rectangular floor if
+    the dimensions of the floor and the dimensions of a tile are entered by the user.
+16. Program to input the number of overs in a Cricket match and output the maximum runs a
+    player can score in the match. Assume that there are no extra runs or NO balls in the match
+    played. For example, in a 50 over match, the maximum runs scored are 1653.
